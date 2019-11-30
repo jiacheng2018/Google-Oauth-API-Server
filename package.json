@@ -1,0 +1,25 @@
+{
+          "name": "google-oauth-api-server",
+          "version": "1.0.0",
+          "description": "Ongoing",
+          "main": "index.js",
+          "scripts": {
+                    "start": "nodemon index.js"
+          },
+          "repository": {
+                    "type": "git",
+                    "url": "git+https://github.com/jiacheng2018/Google-Oauth-API-Server.git"
+          },
+          "author": "",
+          "license": "ISC",
+          "bugs": {
+                    "url": "https://github.com/jiacheng2018/Google-Oauth-API-Server/issues"
+          },
+          "homepage": "https://github.com/jiacheng2018/Google-Oauth-API-Server#readme",
+          "dependencies": {
+                    "express": "^4.17.1"
+          },
+          "devDependencies": {
+                    "nodemon": "^2.0.1"
+          }
+}
