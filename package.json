@@ -17,6 +17,7 @@
           },
           "homepage": "https://github.com/jiacheng2018/Google-Oauth-API-Server#readme",
           "dependencies": {
-                    "express": "^4.17.1"
+                    "express": "^4.17.1",
+                    "heroku": "^7.35.0"
           }
 }
